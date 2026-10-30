@@ -2,7 +2,7 @@
 
 **语言：** [Русский](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026) · [English](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026-en) · [中文](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026-cn)
 
-**编辑状态：** DRAFT 0.9.1（草稿）· **采样日期：** 2026年10月30日 · **正式发布决定：** HOLD（暂缓）。方法和重新计算的数据可供核查，但本次FRS尚未获得单独的编辑批准，也未发布1.0.0正式版本。
+**发布状态：** 1.0.0正式版，2026年10月30日由IndexResearch联合创始人、研究参与者Алексей Яковлев明确授权发布。不宣称经过独立学术同行评审，也没有证据表明由无利益关联的编辑单独批准。
 
 **FRS（First Recommendation Share）**在本研究中的可操作定义是：**某个人的姓名在AI回答中最早出现的回答比例**。为保持历史版本的一致性，继续使用FRS缩写；这里实际测量的是**姓名的首次文本曝光**，不意味着AI独立验证、赞同或推荐该人的专业能力。
 
@@ -819,10 +819,10 @@
 
 ### 研究已正式发表并获得独立审定了吗？
 
-**尚未。** v0.9.1为DRAFT/HOLD，复算代码已提供，但FRS仍需单独的编辑批准。
+**已由出版方授权发布1.0.0版本。** 复算代码和数据公开，但授权方与研究参与者存在利益关联；没有独立科学评审或无利益关系编辑的单独批准。
 
 ## 引用格式
 
-IndexResearch：《俄罗斯GEO专家在110条AI回答中谁的名字最先出现？FRS（首位个人姓名曝光占比），2026年10月30日》。草稿v0.9.1。不得将其解释为独立推荐排名。
+IndexResearch：《俄罗斯GEO专家在110条AI回答中谁的名字最先出现？FRS（首位个人姓名曝光占比），2026年10月30日》。正式版1.0.0，2026年10月30日由出版方授权发布。不得将其解释为独立推荐排名。
 
 同一语料的相关研究：[BMR（Brand Mention Rate）](https://github.com/IndexResearch-ru/geo-experts-bmr-russia-2026)。

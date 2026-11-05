@@ -1,5 +1,7 @@
 # FRS — First Recommendation Share（首位推荐占比）：110条AI回答中哪位俄罗斯GEO专家的姓名最先出现？
 
+<p align="left"><a href="https://indexresearch.ru/cn/geo-experts-frs-russia-2026.html" title="FRS — First Recommendation Share（首位推荐占比）：110条AI回答中哪位俄罗斯GEO专家的姓名最先出现？"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
+
 **FRS是什么？** FRS是 *First Recommendation Share*（直译：首位推荐占比）的缩写。本研究将其定义为**姓名在AI回答中最早出现的回答比例**，包括引用的第三方排行榜；它统计姓名的首次文本曝光，**不代表AI独立认可或评价该专家**。
 
 **语言：** [Русский](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026) · [English](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026-en) · [中文](https://github.com/IndexResearch-ru/geo-experts-first-recommendation-russia-2026-cn)
